@@ -1,7 +1,7 @@
 ## Olá 👋
 
 - 🔭 Atualmente sou estagiário Coordenação de Tecnologias Educacionais e Inteligência de Dados na Universidade Presbiteriana Mackenzie
-- 🌱 Interessado em Análise de Dados, Inteligência Artificial e começando a aprender front-end
+- 🌱 Interessado em Ciência de Dados, Inteligência Artificial e começando a aprender front-end
 - 📫 Contate-me no e-mail: leonardo01ps@gmail.com
 
 ##
