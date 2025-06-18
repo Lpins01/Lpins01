@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Atualmente estou estudando tópicos de interesse por conta própria e buscando uma recolocação no mercado na área de dados
+- 🔭 Atualmente estou estudando tópicos de interesse por conta própria e tentando colocar os conhecimentos em prática com projetos
 - 🌱 Interessado em Ciência de Dados e Inteligência Artificial
 - 📫 Contate-me no e-mail: leonardo01ps@gmail.com
 
